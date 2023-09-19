@@ -1,0 +1,38 @@
+body {
+    background-image: url('svbg.png');
+}
+
+p {
+  font-family: helvetica;
+  color: white;
+}
+
+label {
+  font-family: helvetica;
+  color: white;
+}
+
+h1 {
+  font-family: helvetica;
+  color: white;
+}
+
+h2 {
+  font-family: helvetica;
+  color: white;
+}
+
+h3 {
+  font-family: helvetica;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+  font-family: helvetica;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-family: helvetica;
+}
