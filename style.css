@@ -1,35 +1,42 @@
 body {
     background-image: url('90galaxy.gif');
+    text-align: center;
 }
 
 p {
   font-family: helvetica;
   color: white;
+  text-align: center;
 }
 
 label {
   font-family: helvetica;
   color: white;
+  text-align: center;
 }
 
 h1 {
   font-family: helvetica;
   color: white;
+  text-align: center;
 }
 
 h2 {
   font-family: helvetica;
   color: white;
+  text-align: center;
 }
 
 h3 {
   font-family: helvetica;
   color: white;
+  text-align: center;
 }
 
 a:link {
   text-decoration: none;
   font-family: helvetica;
+  text-align: center;
 }
 
 a:hover {
